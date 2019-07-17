@@ -1,0 +1,2 @@
+# wakariyasui_pattern_recognition
+続・わかりやすいパターン認識の実装
